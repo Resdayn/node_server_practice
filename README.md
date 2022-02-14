@@ -1,1 +1,1 @@
-# Simple blog connected to MongoDB Atlas. Made with node.
+## Simple blog connected to MongoDB Atlas. Made with node.
